@@ -14,7 +14,17 @@ body {
     padding: 3rem;
 }
 
-.lunes {
+.show {
+    display: block !important;
+}
+/* #entreno-1,
+#entreno-2,
+#entreno-3,
+#entreno-4{
+    display: none;
+}
+ */
+.entreno {
     text-align: center;
 }
 
